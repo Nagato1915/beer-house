@@ -1,0 +1,256 @@
+{
+    "items": [
+        {
+            "sys": {"id": "1"},
+            "fields": {
+                "title": "Heineken",
+                "price": 1.69,
+                "image": "images/product-1.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "2"},
+            "fields": {
+                "title": "Corona Extra",
+                "price": 1.99,
+                "image": "images/product-2.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "3"},
+            "fields": {
+                "title": "Guinness",
+                "price": 3.99,
+                "image": "images/product-3.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "4"},
+            "fields": {
+                "title": "Budweiser",
+                "price":1.99,
+                "image": "images/product-4.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "5"},
+            "fields": {
+                "title": "Peroni",
+                "price": 2.99,
+                "image": "images/product-5.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "6"},
+            "fields": {
+                "title": "Stella Artois",
+                "price": 2.69,
+                "image": "images/product-6.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "7"},
+            "fields": {
+                "title": "Hofbrau",
+                "price": 2.99,
+                "image": "images/product-7.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "8"},
+            "fields": {
+                "title": "Blue Moon",
+                "price": 2.99,
+                "image": "images/product-8.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "9"},
+            "fields": {
+                "title": "Carlsberg",
+                "price": 2.99,
+                "image": "images/product-9.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "10"},
+            "fields": {
+                "title": "Tiger",
+                "price": 2.99,
+                "image": "images/product-10.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "11"},
+            "fields": {
+                "title": "Bintang",
+                "price": 2.99,
+                "image": "images/product-11.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "12"},
+            "fields": {
+                "title": "Jupiter",
+                "price": 2.99,
+                "image": "images/product-12.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "13"},
+            "fields": {
+                "title": "Orval",
+                "price": 2.99,
+                "image": "images/product-13.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "14"},
+            "fields": {
+                "title": "Chimay Blue",
+                "price": 2.99,
+                "image": "images/product-14.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "15"},
+            "fields": {
+                "title": "Taiwan Beer",
+                "price": 2.99,
+                "image": "images/product-15.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "16"},
+            "fields": {
+                "title": "Amstel Beer",
+                "price": 2.99,
+                "image": "images/product-16.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "17"},
+            "fields": {
+                "title": "Leffe",
+                "price": 2.99,
+                "image": "images/product-17.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "18"},
+            "fields": {
+                "title": "Delirium Tremens",
+                "price": 2.99,
+                "image": "images/product-18.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "19"},
+            "fields": {
+                "title": "Asahi",
+                "price": 2.99,
+                "image": "images/product-19.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "20"},
+            "fields": {
+                "title": "Rossini",
+                "price": 2.99,
+                "image": "images/product-20.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "21"},
+            "fields": {
+                "title": "Moretti",
+                "price": 2.99,
+                "image": "images/product-21.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "22"},
+            "fields": {
+                "title": "Duuel",
+                "price": 2.99,
+                "image": "images/product-22.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "23"},
+            "fields": {
+                "title": "Zot",
+                "price": 2.99,
+                "image": "images/product-23.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "24"},
+            "fields": {
+                "title": "Bavaria",
+                "price": 2.99,
+                "image": "images/product-24.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "25"},
+            "fields": {
+                "title": "Bitburger",
+                "price": 2.99,
+                "image": "images/product-25.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "26"},
+            "fields": {
+                "title": "Edelweiss",
+                "price": 2.99,
+                "image": "images/product-26.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "27"},
+            "fields": {
+                "title": "Mango Pale Ale",
+                "price": 2.99,
+                "image": "images/product-27.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "28"},
+            "fields": {
+                "title": "Marston's Strong Pale Ale",
+                "price": 2.99,
+                "image": "images/product-28.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "29"},
+            "fields": {
+                "title": "Spitfire",
+                "price": 2.99,
+                "image": "images/product-29.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "30"},
+            "fields": {
+                "title": "Eldinger",
+                "price": 2.99,
+                "image": "images/product-30.jpeg" 
+            }
+        },
+        {
+            "sys": {"id": "31"},
+            "fields": {
+                "title": "Punk IPA",
+                "price": 2.99,
+                "image": "images/product-31.jpeg" 
+            }
+        }
+
+
+
+
+    ]
+}
