@@ -1,9 +1,8 @@
-# beer-house
-
-Name
+## Name 
 Beer House
 
-Overview
+
+## Description 
 a beer selling site for training
 
 ## Demo
